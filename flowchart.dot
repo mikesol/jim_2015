@@ -1,0 +1,6 @@
+digraph flowchart {
+  "bar thickness" -> "width";
+  "width" -> "space previous";
+  "space previous" -> "X position";
+  "X position" -> "line stencil";
+}
